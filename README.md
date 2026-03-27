@@ -74,4 +74,4 @@ This project helped in understanding how machine learning models can be applied 
 ---
 
 ## Author
-Your Name
+Karanam Shasank
